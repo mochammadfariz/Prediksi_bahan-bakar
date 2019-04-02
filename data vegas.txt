@@ -1,0 +1,9 @@
+displacement
+min:68
+max:455
+horsepower:
+min:46
+max:230
+weigt in lbs
+min:1613
+max:5140
